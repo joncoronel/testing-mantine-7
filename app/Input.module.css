@@ -1,0 +1,9 @@
+.container {
+  max-width: 20rem;
+  padding: 1rem;
+}
+
+.input {
+  position: relative;
+  border: 3px solid red;
+}

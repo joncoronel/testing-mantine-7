@@ -1,5 +1,4 @@
-# Mantine Next Template
+# Nextjs edge runtime/useRouter error
 
-Get started with the template by clicking `Use this template` button on the top of the page.
 
-[Documentation](https://mantine.dev/guides/next/)
+

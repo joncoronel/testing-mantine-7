@@ -1,5 +1,12 @@
+import ClientComponent from "./components/ClientComponent";
+
 export default function HomePage() {
-  return <div>Home page</div>;
+  return (
+    <div>
+      Testing
+      <ClientComponent />
+    </div>
+  );
 }
 
 export const runtime = "edge";

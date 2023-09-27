@@ -21,10 +21,11 @@ export default function RootLayout({ children }: { children: any }) {
       </head>
       <body>
         <MantineProvider defaultColorScheme="dark">
-   
           {children}
         </MantineProvider>
       </body>
     </html>
   );
 }
+
+export const runtime = "edge";
